@@ -112,10 +112,30 @@
 
 ## Electrical and Computer Engineering
 
-### <a name="CSM51A"></a>Electrical and Computer Engineering 3:
-* ???? Can't find syllabus?
-* Introduction to electrical engineering
-* Difficulty: HARD
+### <a name="ECE3"></a>Electrical and Computer Engineering 3: Introduction to Electrical Engineering
+* Lecture, two hours; laboratory, two hours; outside study, eight hours. Introduction to field of electrical engineering. Basic circuits techniques with application to explanation of electrical engineering inventions such as telecommunications, electrical grid, automatic computing and control, and enabling device technology. Research frontiers of electrical engineering. Introduction to measurement and design of electrical circuits. Letter grading.
+* Requirements: NONE
+* Units: 4.0
+* Notes: NONE
+
+### <a name="ECE100"></a>Electrical and Computer Engineering 100: Electrical and Electronic Circuits
+* Lecture, three hours; discussion, one hour; outside study, eight hours. Requisites: Mathematics 33A, 33B or Mechanical and Aerospace Engineering 82, Physics 1C. Not open for credit to students with credit for course 110. Electrical quantities, linear circuit elements, circuit principles, signal waveforms, transient and steady state circuit behavior, semiconductor diodes and transistors, small signal models, and operational amplifiers. Letter grading.
+* Requirements: [Math 33A](#MATH33A) AND [Math 33B](#MATH33B) AND [Physics 1C](#PHYS1C)
+* Units: 4.0
+* Notes: NONE
+
+### <a name="ECE115C"></a>Electrical and Computer Engineering 115C: Digital Electronic Circuits
+* Lecture, four hours; discussion, one hour; outside study, seven hours. Requisites: course 100 or 115A, and Computer Science M51A. Transistor-level digital circuit analysis and design. Modern logic families (static CMOS, pass-transistor, dynamic logic), integrated circuit (IC) layout, digital circuits (logic gates, flipflops/latches, counters, etc.), computer-aided simulation of digital circuits. Letter grading.
+* Requirements: [ECE 100](#ECE100) AND [CS M51A](#CSM51A)
+* Units: 4.0
+* Notes: NONE
+
+### <a name="ECE102"></a>Electrical and Computer Engineering 102: Systems and Signals
+* Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: Mathematics 33A. Corequisite: Mathematics 33B. Elements of differential equations, first- and second-order equations, variation of parameters method and method of undetermined coefficients, existence and uniqueness. Systems: input/output description, linearity, time-invariance, and causality. Impulse response functions, superposition and convolution integrals. Laplace transforms and system functions. Fourier series and transforms. Frequency responses, responses of systems to periodic signals. Sampling theorem. Letter grading.
+* Requirements: [Math 33A](#MATH33A)
+* Corequisites: [Math 33B](#MATH33B)
+* Units: 4.0
+* Notes: NONE
 
 ## Mathematics
 
@@ -163,36 +183,36 @@
 * Units: 4.0
 * Notes: NONE
 
-### <a name="MATH131A"></a>Math 131A: Analysis
-* Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B. Recommended: course 115A. Rigorous introduction to foundations of real analysis; real numbers, point set topology in Euclidean space, functions, continuity. P/NP or letter grading.
-* Requirements: [Math 32B](#MATH32B) AND [Math 33B](#MATH33B)
-* Units: 4.0
-* Notes: NONE
-
-### <a name="MATH170A"></a>Math 170A: Probability Theory I
-* Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33A, 131A. Not open to students with credit for course 170E, Electrical and Computer Engineering 131A, or Statistics 100A. Rigorous presentation of probability theory based on real analysis. Probability space, probability and conditional probability, independence, Bayes' rule, discrete and continuous random variables and their distributions, expectation, moments and variance, conditional distribution and expectation, weak law of large numbers. P/NP or letter grading.
-* Requirements: [Math 32B](#MATH32B) AND [Math 33A](#MATH33A) AND [Math 131A](#MATH131A)
-* Units: 4.0
-* Notes: NONE
-
 ## Physics
 
-### <a name="PHYS1A"></a> Physics 1A: Physics for Scientists and Engineers: Mechanics
+### <a name="PHYS1A"></a>Physics 1A: Physics for Scientists and Engineers: Mechanics
 * Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: Mathematics 31A, 31B. Enforced corequisite: Mathematics 32A. Motion, Newton laws, work, energy, linear and angular momentum, rotation, equilibrium, gravitation. P/NP or letter grading.
 * Requirements: [Math 31A](#MATH31A) AND [Math 31B](#MATH31B)
 * Units: 5.0
 * Notes: NONE
 
-### <a name="PHYS1B"></a> Physics 1B: Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
+### <a name="PHYS1B"></a>Physics 1B: Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
 * Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1A, Mathematics 31B, 32A. Enforced corequisite: Mathematics 32B. Fluid mechanics, oscillation, mechanical waves, and sound. Electric charge, field and potential, capacitors, and dielectrics. Currents and resistance, direct-current circuits. P/NP or letter grading.
 * Requirements: [Physics 1A](#PHYS1A) AND [Math 31A](#MATH31A) AND [Math 31B](#MATH31B)
 * Units: 5.0
 * Notes: NONE
 
-### <a name="PHYS1C"></a> Physics 1C: Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity
+### <a name="PHYS1C"></a>Physics 1C: Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity
 * Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1A, 1B, Mathematics 32A, 32B. Enforced corequisite: Mathematics 33A. Magnetic fields, Ampere's law, Faraday's law, inductance, and alternating current circuits. Maxwell's equations, electromagnetic waves, light, geometrical optics, interference and diffraction. Special relativity. P/NP or letter grading.
 * Requirements: [Physics 1A](#PHYS1A) AND [Physics 1B](#PHYS1B) AND [Math 32A](#MATH32A) AND [Math 32B](#MATH32B)
 * Units: 5.0
+* Notes: NONE
+
+### <a name="PHYS1C"></a>Physics 1C: Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity
+* Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1A, 1B, Mathematics 32A, 32B. Enforced corequisite: Mathematics 33A. Magnetic fields, Ampere's law, Faraday's law, inductance, and alternating current circuits. Maxwell's equations, electromagnetic waves, light, geometrical optics, interference and diffraction. Special relativity. P/NP or letter grading.
+* Requirements: [Physics 1A](#PHYS1A) AND [Physics 1B](#PHYS1B) AND [Math 32A](#MATH32A) AND [Math 32B](#MATH32B)
+* Units: 5.0
+* Notes: NONE
+
+### <a name="PHYS4AL"></a>Physics 4AL: Physics Laboratory for Scientists and Engineers: Mechanics
+* Laboratory, four hours. Enforced requisite: course 1A or 1AH. Enforced corequisite: course 1B or 1BH. Computerized measurements of uniform and accelerated motion, including oscillations. Analysis of data and comparison of results to predictions, including least-squares fitting. Conception, execution, and presentation of creative projects involving motion. Letter grading.
+* Requirements: [Physics 1B](#PHYS1B)
+* Units: 2.0
 * Notes: NONE
 
 # Tech Breadth
@@ -205,5 +225,31 @@
 * EASY: 			Stats 100A
 * ULTRA EASY: C&EE 110
 
+### <a name="ECE131A"></a>Electrical and Computer Engineering 131A: Probability and Statistics
+* Lecture, four hours; discussion, one hour; outside study, 10 hours. Requisites: course 102 (enforced), Mathematics 32B, 33B. Introduction to basic concepts of probability, including random variables and vectors, distributions and densities, moments, characteristic functions, and limit theorems. Applications to communication, control, and signal processing. Introduction to computer simulation and generation of random events. Letter grading.
+* Requirements: [ECE102](#ECE102) AND [Math 32B](#MATH32B) AND [Math 33B](#MATH33B)
+* Units: 4.0
+* Notes: NONE
+
+### <a name="MATH131A"></a>Math 131A: Analysis
+* Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33B. Recommended: course 115A. Rigorous introduction to foundations of real analysis; real numbers, point set topology in Euclidean space, functions, continuity. P/NP or letter grading.
+* Requirements: [Math 32B](#MATH32B) AND [Math 33B](#MATH33B)
+* Units: 4.0
+* Notes: NONE
+
+### <a name="MATH170A"></a>Math 170A: Probability Theory I
+* Lecture, three hours; discussion, one hour. Requisites: courses 32B, 33A, 131A. Not open to students with credit for course 170E, Electrical and Computer Engineering 131A, or Statistics 100A. Rigorous presentation of probability theory based on real analysis. Probability space, probability and conditional probability, independence, Bayes' rule, discrete and continuous random variables and their distributions, expectation, moments and variance, conditional distribution and expectation, weak law of large numbers. P/NP or letter grading.
+* Requirements: [Math 32B](#MATH32B) AND [Math 33A](#MATH33A) AND [Math 131A](#MATH131A)
+* Units: 4.0
+* Notes: NONE
+
 # Capstone
 * 152B?? More info needed
+
+# Other links:
+* https://www.seasoasa.ucla.edu/computer-science-worksheets/ 
+* https://registrar.ucla.edu/registration-classes/enrollment-appointments/enrollment-appointments
+* https://www.seasoasa.ucla.edu/ecr/
+* https://registrar.ucla.edu/academics/course-descriptions?search=Computer+Science
+* https://registrar.ucla.edu/academics/course-descriptions?search=Electrical+and+Computer+Engineering
+* https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/
