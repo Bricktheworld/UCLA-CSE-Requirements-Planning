@@ -253,3 +253,99 @@
 * https://registrar.ucla.edu/academics/course-descriptions?search=Computer+Science
 * https://registrar.ucla.edu/academics/course-descriptions?search=Electrical+and+Computer+Engineering
 * https://www.seasoasa.ucla.edu/undergraduate-technical-breadth-area-tba/
+
+
+
+# Common UCLA Terms
+* Study List: All classes in which you are enrolled in a given term
+* Degree Audit Report: Tracks degree requirements, tailored to your major, minor and college/school
+* School Advisor: Provides information about school requirements towards a UCLA degree
+* Department Advisor: Provides information about major/minor requirements in various academic deaprments
+* Major: An area of study that you focus on to receive your bachelor's degree
+* Minor: A secondary field of study that enhances the bachelor's degree, usually consisting of 5-7 courses
+* GE: Requirements intended to introduce fundamental ideas in the arts, humanities, social sciences, and sciences
+* Unit Credit: Academic work that is measured by units that also determines a student's class level
+* UCLA Course Credit: Transferable work or courses that translate to specific UCLA courses and may apply to UCLA requirements
+* Title Credit: Transferable work or courses that are not equivalent to a specific UCLA course but still grant unit credit and may apply to UCLA requirements
+* Grade Credit: Coursework that factors into the UCLA GPA
+
+# School of Engineering Requirements
+* ~~Writing 1 Requirements~~
+* Engineering Writing
+	* Satisified by taking an ethics course
+* Ethics
+	* ENGR 181EW, 182EW, 183EW, 185EW, 188EW
+* Technical Breadth
+	* 12 unit requirement that provides sufficient breadth outside of the student's core program
+	* None of the technical breadth requirement courses selected can be used to satisfy other major course reuquirements
+	* A list of HSSEAS Faculty Executive Committee-approved technical breadth requirement courses is available in the Office of Academic and Student Affairs
+	* Deviation from that list are subject to approval by the associate dean for Academic and Student Affairs
+
+* General Education
+	* Foundations of the Arts and Humanities (1 from 2 of the subgroups):
+		* Literary and Cultural Analaysis (1 course)
+		* Philosophical and Linguistic Analysis (1 course)
+		* Visual and Performance Art Analysis and Practice (1 course)
+	* Foundations of Society and Culture (2 courses):
+		* Social Analysis (1 course)
+		* Historical Analysis (1 course)
+	* Foundations of Scientific Inquiry (1 course)
+		* Life Sciences (1 course)
+	* GE courses can double as major requirements
+
+* Lower Division: (1-99)
+	* Designed as first and second year content
+	* Includes: GE courses, prearation for the major, pre-requisites
+
+* Upper Division (100-199):
+	* Designed as third and fourth year content
+	* 60 unit minimum required for graduation
+	* Includes: Major/minor requirements, upper division electives, GE
+
+* Preparation courses are usually Lower Division(LD) courses numbered 1-99
+
+# Rules:
+* Students must complete 180-185 units to graduate but must finish their degree before reaching 213 units
+* Students should be taking at least 45 units per year
+* Students are expected to complete their undergraduate degree within 4 years as an incoming first year student and 2 years as a transfer student
+
+# Add/Drop Policy: Impacted Courses:
+* End of week 2, MyUCLA, $0, No transcript notation
+* Weeks 3-10, Petition, $20, Yes
+* Classes dropped after Week 10 granted in rare cases
+
+* Add/Drop Policy: Non-Impacted Courses:
+* End of Week 2, $0, No transcript notation
+* End of Week 4, $5, No transcript notation
+* Weeks 5-10, $20, Yes transcript notation
+
+# Passed/Not Passed Option:
+* Students in the School of Engineering can enroll in 5 units of P/NP coursework per quarter if they meet the following conditions:
+	* In good academic standing (2.0 or higher term and cumulative GPA)
+	* Enrolled in at least 9 units for a letter grade for the current quarter
+	* Has no t received two NP grades, students who receive two NP grades are excluded from electing courses on a P/NP basis for one quarter
+	* Not repeating a course in which a C- or lower has been earned
+* These units do not count towards the student's GPA
+
+# Repeat Rule
+* A student may repeat up to 16 units of graded coursework from any UC provided they received a grade of "C-" or lower
+* A course taken for a grade may only be repeated once
+	* The second grade will be computed into the student's GPA
+
+# How GPA is Calculated
+* A+/A: 4.0
+* A-: 3.7
+* B+: 3.3
+* B: 3.0
+* B-: 2.7
+* C+: 2.3
+* C: 2.0
+* C-: 1.7
+* D+: 1.3
+* D: 1.0
+* D-: 0.7
+* F: 0.0
+
+# Fiat Lux and University Studies
+* One-unit course taken mandatory Passed/Not Passed
+
