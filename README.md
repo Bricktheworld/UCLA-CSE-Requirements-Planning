@@ -147,10 +147,11 @@
 * SKIPPED
 
 ### <a name="MATH31B"></a>Math 31B: Integration and Infinite Series
-* Lecture, three hours; discussion, one hour. Requisite: course 31A with grade of C- or better. Not open for credit to students with credit for course 3B. Transcendental functions; methods and applications of integration; sequences and series. P/NP or letter grading.
-* Requirements: [Math 31A](#MATH31A)
-* Units: 4.0
-* Notes: NONE
+* ~~Lecture, three hours; discussion, one hour. Requisite: course 31A with grade of C- or better. Not open for credit to students with credit for course 3B. Transcendental functions; methods and applications of integration; sequences and series. P/NP or letter grading.~~
+* ~~Requirements: [Math 31A](#MATH31A)~~
+* ~~Units: 4.0~~
+* ~~Notes: NONE~~
+* SKIPPED
 
 ### <a name="MATH32A"></a>Math 32A: Calculus of Several Variables
 * Lecture, three hours; discussion, one hour. Enforced requisite: course 31A with grade of C- or better. Introduction to differential calculus of several variables, vector field theory. P/NP or letter grading.
@@ -348,4 +349,140 @@
 
 # Fiat Lux and University Studies
 * One-unit course taken mandatory Passed/Not Passed
+
+# Policies and Procedures
+* D- passing grade
+* Major required courses must be graded not P/NP
+
+# Repeat Rule Review
+* A course may be repeated ONCE and the 2nd grade will replace the first grade in your GPA calculations
+	* For up to the first 16 units of repeated
+	* For grades earned of a C- or lower
+* If you _need_ to take the course as a requirement you can do it again
+
+# Resources available
+* Free drop-in tutoring
+	* TBP: https://tbp.seas.ucla.edu/schedule
+	* HKN: https://hkn.ee.ucla.edu/ You can see the tutoring at the top
+	* UPE: https://upe.seas.ucla.edu/tutoring/
+
+# Academics
+* Counselor at 6426 Boelter Hall or via Message Center https://seasoasa.ucla.edu/counselors/
+* DARS - Review your academic progress through our Degree Auditing Report Service (found on myUCLA under Academics)
+
+# Undergraduate Research Program or Undergraduate Intership Program
+* ENGR 23,24,25
+* ENGR 95/195
+* 99/199
+
+* Talk with your faculty adviser in weeks 1-3 of the quarter, look for an email from them about their hours which are held quarterly
+	* You can meet with a friend
+
+# Join a Student Group
+* https://samueli.ucla.edu/student-clubs-organizations/
+* Look out for remote/virtual events in the Fall Quarter
+
+# University Requirements
+* Entry level writing (satisified)
+* American History and Institution Requirement (Satisfied)
+* Writing 1 - Satisfy with English Comp 3
+* Engineering Ethics/Writing: One from ENGR 181EW, 182EW, 183EW, 185EW
+	* EW = (Ethics) + (Writing)
+
+# General Education Requirements
+* Foundations of Arts and Humanities, subcategories (Take 2):
+	* Literary and Cultural Analysis (LCA)
+	* Philosophical and Linguistics Analysis (PLA)
+	* Visual and Performance Arts Analysis (VPA)
+* Foundations of Society and Culture, subcategories (Take 2):
+	* Historical Analysis (HAN)
+	* Social Analysis (SAN)
+* Foundations of Scientific Inquiry, subcategories (Take 2):
+	* Life Sciences (LS)
+	* Physics (Probably satisifed)
+
+
+# AP Exams
+* AP Physics
+	* Physics C Mechanics (4/5) may apply credit for Physics 1A
+* AP credit for Mathematics
+	* AB (5) or BC (4) - may apply credit for MATH 31A
+	* BC (5) - MATH 31A and may apply credit toward MATH 31B
+
+# Building schedule with your NSA
+* Freshman Seminar
+	* Introduce to major
+* A science course (Computer Science Course for computer majors)
+* A math course
+* A GE of Eng Comp 3
+
+# Registrar's Office
+* Schedule of Classes
+* General Catalog
+* Links to all academic departments
+* Course descriptions
+* Fee and residence information
+* Academic calendars with all college deadlines, holidays
+
+# Schedule of Classes
+* Complete listing of classes offered at UCLA during a given term
+* During New Student Session, you will use the Class Planner to look for and enroll in courses
+
+# Finances & Jobs: BruinBill
+* Charges are due the 20th of the month following the month they were posted.
+* Tuition & Housing due September 20, December 20, and March 20
+
+# BruinPay Plan (BPP)
+* UCLA offers the option ot pay tuition in three monthly installments per quarter instead 
+* studentaccounts.ucla.edu
+
+# Finances & Jobs: Financial Aids & Scholarships:
+* Financial Aid Resources include:
+	* Electronic Financial Aid Notification (eFAN)
+	* Financial Aid Summary
+	* Financial Aid Document Tracking
+	* Tax Withholding Report
+	* Disbursement Summary
+* financialaid.ucla.edu
+
+# CAL Grant Acknowledgement
+* ???
+
+# Academics: Holds
+* See if you have any holds on your account
+* Shows the nature of the hold, the office that issued the hold, and the date the hold takes effect
+
+# What is a Hold?
+* Holds can:
+	* Prevent enrollment, graduation, or ordering of transcripts or diploma
+* Holds can be placed for a variety of reasons:
+	* Check for BruinBill, Failure to pay any one or more of fees on time
+	* Verification of Immunizations
+	* ECP
+	* Title IX Education Training
+
+# Academics: Declare Candidacy Term
+* Candidacy term is the term (quarter) that a student expects to finish their UCLA degree, making you eligible for earlier enrollment appointments as a senior
+* Automatically declared
+* Speak to college advisor to change
+
+
+Classes->Class Planner->Fall
+
+# Scheduling Tips
+* First Quarter schedule
+	* Each student will be enrolling in three classes
+	* An acceptable fourth course would be either a Fiat Lux or University Studies
+* Check final exam times
+	* Scheduling finals on the same day is discouraged
+* Plan to include alternate classes
+	* Alternates include: different discussions for a course, different lecture times for a course, or a different course entirely
+	* Have at least 3 alternates per course in case your first options fills up
+* Spend time planning!
+	* The more time you spend planning, the smoother your enrollment process will be
+	* Go to Course Planning Assistance for additional help scheduling your classes
+
+* bruinlearn.ucla.edu
+
+
 
