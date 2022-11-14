@@ -2,6 +2,69 @@
 
 * 12-21 units per quarter
 
+# Year 1
+
+## Quarter 1:
+* [CS1](#CS1)
+* [CS31](#CS31)
+* [Math 32a](#MATH32A)
+* Poli Sci 10
+
+## Quarter 2:
+* [CS32](#CS32)
+* [CS35L](#CS35L)
+* [Math 33A](#MATH33A)
+* [Math 61](#MATH61)
+
+## Quarter 3:
+* [CS33](#CS33)
+* [Math 33B](#MATH33B)
+* [CS180](#CS180)
+
+# Year 2
+
+## Quarter 4:
+* [Math 32B](#MATH32B)
+* [CS111](#CS111)
+* [Phys 1A](#PHYS1A)
+* GE
+
+## Quarter 5:
+* [CS118](#CS118)
+* [CS131](#CS131)
+* [CS181](#CS181)
+
+## Quarter 6:
+* [CS132](http://web.cs.ucla.edu/~palsberg/course/cs132/F14/)
+* [CSM51A](#CSM51A)
+* [Phys 1B](#PHYS1B)
+* GE
+
+# Year 3
+
+## Quarter 7:
+* [Phys 1C](#PHYS1C)
+
+## Quarter 8:
+* [CSM152A](#CSM152A)
+* [ECE100](#ECE100)
+* [Phys 4AL](#PHYS4AL)
+* GE
+
+## Quarter 9:
+* [CSM151B](#CSM151B)
+* [ECE102](#ECE102)
+* [ECE115](#ECE115)
+* GE
+
+# Year 4
+
+## Quarter 10:
+
+## Quarter 11:
+
+## Quarter 12:
+
 # Requirements
 
 ## Computer Science
@@ -77,6 +140,14 @@
 * Units 4.0
 * Notes: NONE
 
+### <a name="CSM152A"></a>Computer Science M152A: Introductory Digital Design Laboratory
+* [Syllabus](https://web.cs.ucla.edu/~weightzero/teaching/CSM152A-21S)
+* (Same as Electrical and Computer Engineering M116L.) Laboratory, four hours; outside study, two hours. Enforced requisite: course M51A or Electrical and Computer Engineering M16. Hands-on design, implementation, and debugging of digital logic circuits, use of computer-aided design tools for schematic capture and simulation, implementation of complex circuits using programmed array logic, design projects. Letter grading.
+* Requirements: [CSM51A](#CSM51A)
+* Difficulty: HARD
+* Units: 2.0
+* Notes: NONE
+
 ### <a name="CSM151B"></a>Computer Science M151B: Computer Systems Architecture
 * [Syllabus](https://cadlab.cs.ucla.edu/~cong/cs151b.html)
 * (Same as Electrical and Computer Engineering M116C.) Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: courses 33, and M51A or Electrical and Computer Engineering M16. Recommended: courses 111, and M152A or Electrical and Computer Engineering M116L. Computer system organization and design, implementation of CPU datapath and control, instruction set design, memory hierarchy (caches, main memory, virtual memory) organization and management, input/output subsystems (bus structures, interrupts, DMA), performance evaluation, pipelined processors. Letter grading.
@@ -84,14 +155,6 @@
 * Recommended: [CS111](#CS111) AND [CSM152A](#CSM152A)
 * Difficulty: HARD
 * Units 4.0
-* Notes: NONE
-
-### <a name="CSM152A"></a>Computer Science M152A: Introductory Digital Design Laboratory
-* [Syllabus](https://web.cs.ucla.edu/~weightzero/teaching/CSM152A-21S)
-* (Same as Electrical and Computer Engineering M116L.) Laboratory, four hours; outside study, two hours. Enforced requisite: course M51A or Electrical and Computer Engineering M16. Hands-on design, implementation, and debugging of digital logic circuits, use of computer-aided design tools for schematic capture and simulation, implementation of complex circuits using programmed array logic, design projects. Letter grading.
-* Requirements: [CSM152A](#CSM152A)
-* Difficulty: HARD
-* Units: 2.0
 * Notes: NONE
 
 ### <a name="CS180"></a>Computer Science 180: Introduction to Algorithms and Complexity
@@ -173,7 +236,7 @@
 
 ### <a name="MATH33B"></a>Math 33B: Differential Equations
 * Lecture, three hours; discussion, one hour. Enforced requisite: course 31B with grade of C- or better. Highly recommended: course 33A. First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems. P/NP or letter grading.
-* Requirements: [Math 33B](#MATH33B)
+* Requirements: [Math 31B](#MATH31B)
 * Recommended: [Math 33A](#MATH33A)
 * Units: 4.0
 * Notes: NONE
@@ -194,13 +257,7 @@
 
 ### <a name="PHYS1B"></a>Physics 1B: Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
 * Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1A, Mathematics 31B, 32A. Enforced corequisite: Mathematics 32B. Fluid mechanics, oscillation, mechanical waves, and sound. Electric charge, field and potential, capacitors, and dielectrics. Currents and resistance, direct-current circuits. P/NP or letter grading.
-* Requirements: [Physics 1A](#PHYS1A) AND [Math 31A](#MATH31A) AND [Math 31B](#MATH31B)
-* Units: 5.0
-* Notes: NONE
-
-### <a name="PHYS1C"></a>Physics 1C: Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity
-* Lecture/demonstration, four hours; discussion, one hour. Enforced requisites: course 1A, 1B, Mathematics 32A, 32B. Enforced corequisite: Mathematics 33A. Magnetic fields, Ampere's law, Faraday's law, inductance, and alternating current circuits. Maxwell's equations, electromagnetic waves, light, geometrical optics, interference and diffraction. Special relativity. P/NP or letter grading.
-* Requirements: [Physics 1A](#PHYS1A) AND [Physics 1B](#PHYS1B) AND [Math 32A](#MATH32A) AND [Math 32B](#MATH32B)
+* Requirements: [Physics 1A](#PHYS1A) AND [Math 33B](#MATH33B) AND [Math 31A](#MATH31A) AND [Math 31B](#MATH31B)
 * Units: 5.0
 * Notes: NONE
 
